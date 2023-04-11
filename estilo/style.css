@@ -74,6 +74,12 @@ main h2 {
     margin-top: 20px;
 }
 
+main h3 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 main img {
     width: 300px;
    margin: auto;
@@ -84,4 +90,30 @@ main img {
 main p {
     padding: 5px;
     text-indent: 20px
+}
+
+#taça ul{
+    list-style: none;
+}
+
+p.Lhino {
+    text-align: center;
+}
+
+div#cruz {
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div#cruz > img {
+    width: 150px;
+   display: inline-block;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }

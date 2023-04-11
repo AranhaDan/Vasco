@@ -6,7 +6,8 @@
     }
 
     header {
-        border-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
     }
 
     header > h1 > br {
@@ -40,9 +41,28 @@
 
     main {
         width: 800px;
+        box-shadow: 2px 2px 5px black;
     }
 
     #escvas {
         float: left;
+    }
+
+    div#cruz {
+        display: block;
+        margin-left: 165px;
+        margin-right: 165px;
+    }
+    
+    div#cruz > img {
+        width: 150px;
+       display: inline-block;
+    }
+
+    footer {
+        margin: auto;
+        margin-top: 20px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
     }
 }
