@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 769px) {
+    header {
+        width: 95vw;
+    }
+
+    menu{
+        display: block;
+    }
+
+    menu > ul {
+    margin-top: 30px;
+    border-radius: 10px;
+    }
+
+    menu > ul > li {
+        display: inline-block;
+    }
+    
+    menu > ul > li > a {
+       padding-left: 119px ;
+       padding-right: 119px ;
+    }
+
+
+    #burguer {display: none;}
+
+    main {
+        width: 800px;
+    }
+
+    #escvas {
+        float: left;
+    }
+}
