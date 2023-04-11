@@ -5,6 +5,10 @@
         width: 95vw;
     }
 
+    header > h1 > br {
+        display: none;
+    }
+
     menu{
         display: block;
     }

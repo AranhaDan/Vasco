@@ -10,7 +10,7 @@ header {
 background-color: black;
 color: white;
 margin: auto;
-width: 600px;
+width: 450px;
 padding: 20px;
 border-radius: 20px;
 }
@@ -68,7 +68,7 @@ main {
  background-color: white;
  margin: auto;
  margin-top: 15px;
- width: 600px;
+ width: 450px;
  padding: 20px;
  border-radius: 20px;
 }
