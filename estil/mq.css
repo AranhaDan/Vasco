@@ -1,8 +1,13 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 769px) {
+    body {
+        background-color: bisque;
+    }
+
     header {
         width: 95vw;
+        border-radius: 20px;
     }
 
     header > h1 > br {

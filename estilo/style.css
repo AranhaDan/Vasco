@@ -12,7 +12,6 @@ color: white;
 margin: auto;
 width: 450px;
 padding: 20px;
-border-radius: 20px;
 }
 
 header > h1 {
@@ -29,7 +28,7 @@ menu {display: none;}
     cursor: pointer;
     padding: 5px;
     margin-top: 15px;
-    border-radius: 10px;
+
 }
 
 #burguer:hover {
@@ -60,17 +59,15 @@ menu > ul > li > a:hover {
     border-radius: 10px;
 }
 
-body {
-    background-color: bisque;
-}
 
 main {
  background-color: white;
  margin: auto;
  margin-top: 15px;
- width: 450px;
+ width: 400px;
  padding: 20px;
  border-radius: 20px;
+ line-height: 1.5em;
 }
 
 main h2 {
