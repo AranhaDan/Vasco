@@ -32,6 +32,10 @@
        padding-right: 119px ;
     }
 
+    menu > ul > li > a:hover {
+    border-radius: 10px;
+    }
+
 
     #burguer {display: none;}
 
